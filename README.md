@@ -12,7 +12,7 @@ A modern e-commerce web application built with Next.js that showcases products u
 
 ## 🛠️ Technologies Used
 
-- ⚛️ Next.js 14
+- ⚛️ Next.js 15
 - 🎨 Tailwind CSS
 - 📱 Responsive Design
 - 🔄 API Integration
